@@ -6,7 +6,7 @@ url: "https://alsrb1223-gif.github.io"
 theme_settings:
   # Meta
   title: Neoconfusion
-  avatar: assets/img/avatar.png
+  # avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "film, art, literature, pop_culture" # used by search engines
