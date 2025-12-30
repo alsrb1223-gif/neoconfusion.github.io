@@ -2,25 +2,26 @@
 layout: default
 ---
 
-<div class="post-content">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <hr style="border: 0.5px solid #eee; margin-bottom: 30px;">
+<div class="post-content" style="padding-top: 20px;">
+  <h1 class="post-title" style="padding-left: 40px; margin-bottom: 10px;">{{ page.title }}</h1>
+  
+  <hr style="border: 0.5px solid #eee; margin-left: 40px; margin-right: 40px; margin-bottom: 40px;">
 
-  <ul class="post-list" style="list-style-type: none; padding-left: 0;">
+  <ul class="post-list" style="list-style-type: none; padding-left: 80px;">
     {% for post in site.categories[page.category] %}
-      <li style="margin-bottom: 25px;">
-        <span class="post-meta" style="color: #999; font-size: 0.85em; display: block; margin-bottom: 5px;">
+      <li style="margin-bottom: 35px; padding-right: 40px;">
+        <span class="post-meta" style="color: #999; font-size: 0.85em; display: block; margin-bottom: 8px;">
           {{ post.date | date: "%Y년 %m월 %d일" }}
         </span>
         
-        <h2 style="margin: 0; font-size: 1.4em;">
-          <a class="post-link" href="{{ post.url | relative_url }}" style="text-decoration: none; color: #333;">
+        <h2 style="margin: 0; font-size: 1.5em; line-height: 1.4;">
+          <a class="post-link" href="{{ post.url | relative_url }}" style="text-decoration: none; color: #333; font-weight: 700;">
             {{ post.title }}
           </a>
         </h2>
 
-        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">
-          {{ post.excerpt | strip_html | truncate: 160 }}
+        <p style="margin-top: 12px; color: #666; font-size: 0.95em; line-height: 1.6;">
+          {{ post.excerpt | strip_html | truncate: 180 }}
         </p>
       </li>
     {% endfor %}
