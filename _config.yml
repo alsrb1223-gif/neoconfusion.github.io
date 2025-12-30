@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://neoconfusion.github.io"
+baseurl: "/neoconfusion.github.io"
+url: "https://alsrb1223-gif.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
