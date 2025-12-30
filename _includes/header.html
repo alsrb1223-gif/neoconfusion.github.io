@@ -1,18 +1,12 @@
 <header class="site-header">
 	<div class="branding">
-		{% if site.theme_settings.gravatar %}
-		<a href="{{ site.baseurl }}/">
-		</a>
-		{% elsif site.theme_settings.avatar %}
-		<a href="{{ site.baseurl }}/">
-			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
-		</a>
-		{% endif %}
 		<h1 class="site-title">
-			<a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
-			<a href="{{ "/" | relative_url }}" class="site-title" style="font-size: 2.5em; font-weight: bold;">{{ site.title }}</a>
+			<a href="{{ "/" | relative_url }}" style="font-size: 1.2em; font-weight: bold; letter-spacing: -1px; text-transform: none;">
+				{{ site.title }}
+			</a>
 		</h1>
 	</div>
+	
 	<nav class="site-nav">
 		<ul>
 			{% if site.theme_settings.site_navigation_sort %}
@@ -29,21 +23,19 @@
 			</li>
 			{% endif %}
 			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled  -->
+			
 			{% include icons.html %}
 
-            <!-- Search bar -->
-            {% if site.theme_settings.search %}
-            <li>
-            <form action="{{ site.baseurl }}/search.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="Search" class="">
-                <button type="submit" class="">
-                    <i class="fa fa-fw fa-search"></i>
-                </button>
-            </form>
-            </li>
-            {% endif %}
+			{% if site.theme_settings.search %}
+			<li>
+			<form action="{{ site.baseurl }}/search.html" method="get">
+				<input type="text" id="search-box" name="query" placeholder="Search">
+				<button type="submit">
+					<i class="fa fa-fw fa-search"></i>
+				</button>
+			</form>
+			</li>
+			{% endif %}
 		</ul>
 	</nav>
-
 </header>
