@@ -31,4 +31,4 @@ Ramaswamy, Sumathi. “Introduction: Barefoot Across India–An Artist and His C
 
 Thongchai Winichakul. Siam Mapped: A History of the Geo-Body of a Nation. Honolulu: University of Hawaii Press, 1994.
 
-** This Essay is written during NYU Institute of Fine Arts Class "From Mapping to Mapmakers" taught by Prof. Dipti Khera **
+**This essay was written for the NYU Institute of Fine Arts course, "From Mapping to Mapmakers," taught by Prof. Dipti Khera**
