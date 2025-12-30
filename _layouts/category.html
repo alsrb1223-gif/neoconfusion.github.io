@@ -4,15 +4,24 @@ layout: default
 
 <div class="post-content">
   <h1 class="post-title">{{ page.title }}</h1>
+  <hr style="border: 0.5px solid #eee; margin-bottom: 30px;">
 
-  <ul class="post-list">
+  <ul class="post-list" style="list-style-type: none; padding-left: 0;">
     {% for post in site.categories[page.category] %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <li style="margin-bottom: 25px;">
+        <span class="post-meta" style="color: #999; font-size: 0.85em; display: block; margin-bottom: 5px;">
+          {{ post.date | date: "%Y년 %m월 %d일" }}
+        </span>
+        
+        <h2 style="margin: 0; font-size: 1.4em;">
+          <a class="post-link" href="{{ post.url | relative_url }}" style="text-decoration: none; color: #333;">
+            {{ post.title }}
+          </a>
         </h2>
-        <p>{{ post.excerpt }}</p>
+
+        <p style="margin-top: 10px; color: #666; font-size: 0.95em;">
+          {{ post.excerpt | strip_html | truncate: 160 }}
+        </p>
       </li>
     {% endfor %}
   </ul>
