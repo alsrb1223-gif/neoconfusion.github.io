@@ -3,13 +3,15 @@ layout: default
 ---
 
 <div class="post-content" style="padding-top: 20px;">
-  <h1 class="post-title" style="padding-left: 40px; margin-bottom: 10px;">{{ page.title }}</h1>
+  <h1 class="post-title" style="text-align: center; margin-bottom: 15px; font-weight: 700;">
+    {{ page.title }}
+  </h1>
   
-  <hr style="border: 0.5px solid #eee; margin-left: 40px; margin-right: 40px; margin-bottom: 40px;">
+  <hr style="border: 0.5px solid #eee; width: 90%; margin: 0 auto 40px auto;">
 
-  <ul class="post-list" style="list-style-type: none; padding-left: 80px;">
+  <ul class="post-list" style="list-style-type: none; padding-left: 80px; padding-right: 40px;">
     {% for post in site.categories[page.category] %}
-      <li style="margin-bottom: 35px; padding-right: 40px;">
+      <li style="margin-bottom: 40px; border-bottom: 0.5px solid #f9f9f9; padding-bottom: 20px;">
         <span class="post-meta" style="color: #999; font-size: 0.85em; display: block; margin-bottom: 8px;">
           {{ post.date | date: "%Y년 %m월 %d일" }}
         </span>
@@ -20,8 +22,8 @@ layout: default
           </a>
         </h2>
 
-        <p style="margin-top: 12px; color: #666; font-size: 0.95em; line-height: 1.6;">
-          {{ post.excerpt | strip_html | truncate: 180 }}
+        <p style="margin-top: 12px; color: #666; font-size: 0.95em; line-height: 1.7;">
+          {{ post.excerpt | strip_html | truncate: 200 }}
         </p>
       </li>
     {% endfor %}
