@@ -85,8 +85,8 @@ exclude:
 navigation:
   - title: Film
     url: /category/film/
-  - title: Literature
-    url: /category/literature/
+  - title: Essays
+    url: /category/essays/
   - title: Art
     url: /category/art/
   - title: Pop Culture
