@@ -83,13 +83,13 @@ exclude:
   - Gemfile.lock
 
 navigation:
-  - title: Film
-    url: /category/film/
-  - title: Essays
-    url: /category/essays/
   - title: Art
     url: /category/art/
+  - title: Film
+    url: /category/film/
   - title: Pop Culture
     url: /category/pop-culture/
+  - title: Essays
+    url: /category/essays/
   - title: About
     url: /about/
