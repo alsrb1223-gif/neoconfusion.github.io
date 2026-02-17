@@ -26,7 +26,7 @@ Husain employed the visual languages of the cartography and Bharat Mata in disti
 <div style="text-align: center; margin-bottom: 30px;">
   <img src="/neoconfusion.github.io/assets/img/husain-fig1.png" alt="Figure 1" style="max-width: 80%; height: auto;">
   <p style="color: #666; font-size: 0.9em; margin-top: 10px;">
-     Figure 2: M. F. Husain, Central Panel of <i>50 Years of Emerging India: A Triptych<i>. Illustration in The Times of India, Special Supplement, Bombay, 15 August 1997. Image scanned from <i>Barefoot across the Nation: Maqbool Fida Husain and the Idea of India*<i>, edited by Sumathi Ramaswamy.
+     Figure 2: M. F. Husain, Central Panel of <i>50 Years of Emerging India: A Triptych</i>. Illustration in The Times of India, Special Supplement, Bombay, 15 August 1997. Image scanned from <i>Barefoot across the Nation: Maqbool Fida Husain and the Idea of India</i>, edited by Sumathi Ramaswamy.
   </p>
 </div>
        
