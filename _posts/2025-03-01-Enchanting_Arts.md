@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enchanting Art, Disenchanting Judgment: Maqbool Fida Husain’s Untitled (<i>Bharat Mata</i>)"
-categories: art  # art, film, literature, pop-culture 중 선택
+category: art  # art, film, literature, pop-culture 중 선택
 tags: [Geo-Body, Indian Art, M.F. Husain]
 ---
 A prominent Indian modern and contemporary artist, Maqbool Fida Husain (1915-2011), suffered unwilling exile after depicting *Untitled (Bharat Mata)* in 2006 (figure 1). Husain’s painting *Untitled (Bharat Mata)* depicts the Indian subcontinent as a woman folding her body in nudity, and consequently, the Hindu nationalists charged him for violating the sacred image of the goddess (Ramaswami, 2011, 2-4). The painter made the painting as a geo-body illustration, as clear by writing names of the city, such as from north of Srinagar in Kashmir, passing through Gujarat where the massacre happened in 2002, and Bhopal where the worst chemical disaster happened, and south to Cochin and Chennai (Ramaswami, 2011, 86). The wheel used in the national flag is located in the right center, indicating India herself. 
