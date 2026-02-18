@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 title: Neoconfusion
-baseurl: "/neoconfusion.github.io"
-url: "https://alsrb1223-gif.github.io"
+baseurl: ""  # 기존 "/neoconfusion.github.io"를 삭제하고 비워둡니다.
+url: "https://neoconfusion.com"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
