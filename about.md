@@ -2,11 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Neoconfusion is a blog dedicated to the interpretation of art, film, pop culture, and literature through the lens of a Korean-minded person. Neoconfusion means two things in general. First, the neoconfusion engages with the concept of <i>Li<i/> (理, Moral Authority and Principle) in Neo-Confucianism, the fundamental principle that has shaped the Korean worldview since the 1500s, holding that moral legitimacy has defined social mechanisms and order. As the philosopher Ogura Kizo observed, <i>Li<i/> in Korean society has served as the moral and metaphysical anchor of political legitimacy as well as the mental regulator of Korean society in general, elevating moralism as the standard of righteousness, rather than morality itself. Second, I believe the inevitable collision between the modern global context and regional traditions gives rise to a ‘new confusion.’ <i>Li<i/> is one of the traditional worldviews that, while syncretized into a global context, continues to produce a distinct dissonance. Through the lens of cultural products, I seek to identify this potential confusion, which we have yet to fully confront but which already resides with us. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+My name is Minkyou Jun. I am from Seoul, South Korea, and currently based in New York. My essay interest lies in the neoconfusion embedded in cultural products as a way to understand people’s mentalities and how we might navigate them. My personal background—as an art historian specializing in early modern period South Asian paintings, a K-pop commentator, and a researcher of Asian cinema—may seem unrelated, but it is driven by the same underlying question: when we encounter a challenge that has the potential to transform our worldview, how do we respond? How do we negotiate and reshape our ways of thinking? I have sought to analyze visual representations as a means by which people reconcile their mentality after experiencing events that could have shifted their worldview. In other words, worldview is all that matters. 
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Minkyou Jun is currently a film team intern at the Korean Cultural Center, New York (KCCNY). Before joining KCCNY, he received an MA in the History of Art at the Institute of Fine Arts, New York University, and an MA and BA in the Department of Asian Languages and Civilizations, Seoul National University. 
+
