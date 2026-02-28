@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "The Truth of the Fake: How Worldviews Saved K-Pop from the Factory of Images"
-date: 2026-02-27
-categories: [Pop Culture]
+title: "The Truth of the Fake: How the Worldview Saved K-Pop from the Factory of Images"
+date: 2026-01-18
+categories: "Pop Culture"
 tags: [Magritte, LOONA, NewJeans, K-pop Aesthetics, Art History]
 ---
+<p style="color: gray; font-style: italic; font-size: 0.9em;">
+  This essay was originally published in Korean in <i>Sassanggye</i>, Vol. 210 (Relaunch No.5), 2026 New Year Special Issue
+</p>
 
 René Magritte’s <i>The Lovers</i> (1928) captures a scene where two figures kiss, their faces covered with white veils. Magritte, the Belgian surrealist, creates a strange scene with love. The lovers cannot see each other, and their kiss is nothing more than two pieces of fabric touching. We could see this scene as love being blocked by the cloth, or perhaps as people who do not actually love each other but still crave the act of kissing, so they hide their faces to do it. Is this love? Just as Magritte questioned the gap between a real object and its image in <i>The Treachery of Images</i> (1929)—where he painted a pipe and wrote, “This is not a pipe"—this scene asks us: Are we seeing love itself, or just a representation of it?
 
