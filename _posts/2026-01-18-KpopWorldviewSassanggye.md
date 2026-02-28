@@ -2,7 +2,7 @@
 layout: post
 title: "The Truth of the Fake: How the Worldview Saved K-Pop from the Factory of Images"
 date: 2026-01-18
-categories: "pop-culture"
+categories: pop-culture
 tags: [Magritte, LOONA, NewJeans, K-pop Aesthetics, Art History]
 ---
 <p style="color: gray; font-style: italic; font-size: 0.9em;">
