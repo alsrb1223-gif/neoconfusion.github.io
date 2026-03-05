@@ -2,7 +2,7 @@
 layout: post
 title: "Review: Dear Pyongyang (2005)"
 date: 2026-03-05
-category: film
+categories: film
 tags: [Film, Dear Pyongyang, Documentary, Zainichi]
 ---
 
