@@ -5,8 +5,6 @@ date: 2026-03-05
 category: film
 tags: [Film, Dear Pyongyang, Documentary, Zainichi]
 ---
-The film Dear Pyongyang Review
-
 
 The documentary film *Dear Pyongyang* illuminates the lives of Zainichi Koreans who have resided in Japan since Korean independence, capturing the complex layers of modern Korean history. Director Yang Yonghi focuses on her father, who dedicated his life to North Korean ideology, ultimately relocating his three sons permanently to North Korea. Centering on her father’s 70th birthday celebration in Pyongyang and journey from Japan to North Korea, the director attempts to unravel the inner sentiments her father experienced throughout his almost 55-year struggle in Japan. The film captures him reflecting on his life while grappling with the reality of his only daughter in Japan and the precarious nature of her national identity as a North Korean, which she holds with respect for her father's convictions.
 
@@ -25,3 +23,8 @@ It is easy to categorize this film as a mere tragedy of post-independence Korean
 Yonghi’s perspective in the film provides a crucial clue on how to reclaim a dismantled family in the midst of a historical typhoon. A key element is the trajectory of Mr. Yang as he begins to understand his children. Whenever the family meets the brothers in the North, the only words they can say are ‘Ganbatte’ (Stay strong/Hang in there). However, there is a poignant dissonance in its delivery. The brothers speak the best words permitted by their reality, yet Yonghi responds in the intimate, casual tone of everyday language. If the older brother's Ganbatte signals how the national ideology has occupied the private space, Yonghi's reply seeks to reclaim that same word, pulling it back within the family's boundary. This simple exchange acknowledges that while their separation was an inevitable consequence of the era, the family remains the only entity capable of giving meaning to such a fragmented existence. 
 
 In the final scenes, when Yonghi jokes about her father’s unfulfilled beliefs, her mother’s reply—that faith is worth it when it has aged—revisits the North Korean ‘utopian’ ideal not as a political reality but as a lived history. While ideology once dictated the meaning of parents' lives, the film suggests that their aged belief was never a purely political construct. Instead, its innermost premise was likely the preservation of familial ties—a desperate, long-term effort to keep the family whole. As the film concludes, Yonghi speaks with her hospitalized father through the lens of compassion. His journey was never tender. His rigid choices caused deep pain and hurt those closest to him. Yet, ironically, it is within this very family that the healing of those wounds begins. In a new era where Cold War ideologies have dissolved, the desperate need for resilience is visualized by Yonghi’s camera through the enduring bonds of kinship. Through this view, she finally reaches a place where she can truly begin to understand the complex, burdened life of her father. 
+
+<p style="color: gray; font-size: 0.9em; margin-top: 50px;">
+  *This review was written after the correspondence with Wonjun Kang (UC Irvine).*
+</p>
+
