@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Desiring Identities: When American Freedom is the System Part 1"
+date: 2026-04-13
+categories: essays
+tags: [Paul Auster, Identity, American Dream, New York Trilogy, Philosophy]
+---
+
+> All that we see or seem  
+> Is but a dream within a dream?  
+> — Edgar Allan Poe, *A Dream Within a Dream*
+
+> “We are like the dreamer, who dreams and then lives inside the dream, but who is the dreamer?”  
+> — David Lynch, *Twin Peaks 3 Ep. 14*
+
+---
+I still have difficulty understanding the sentence, “​The world is my oyster.” As a non-native English speaker, it is not easy to visualize the image of the sentence with its meaning: you can be whatever you want to do and whatever you dream of. The problem occurs when I dwell on the meaning of the idiom. Is it really possible to have absolute freedom to be whatever you wish? How do you negotiate yourself with your family, society, and even the country you live in? Particularly in this all-connected world, how can we ensure our freedom is unlimited when we think about our relationship with others?
+
+I believe that this question is very unnatural to an American audience, as well as to people who truly believe in the ideas of natural rights for human beings. But this question is quite important for understanding America itself, consciously or unconsciously. The American dream has been the rhetoric of inviting immigrants from all over the world since America's foundation and was used to prove ideological superiority during the Cold War, and even today Big Tech mafias are fueling brain drain from other nations by providing the American dream. Also, gender issues are more pronounced in the United States from this perspective, in my observation, if we agree that those genders are socially constructed. For decades, choosing a gender has been a contentious issue in this country, and I want to say that the phenomenon is actually more related to American mentality. Compared to other countries, when we think of genders before the Victorian era and consider the gender perspective in Asia, for example, many genders have been a concept that lives with us rather than identifying ourselves. In other words, when gender was socially constructed in the United States, it became something we can choose under the socially confirmed system.
+
+American identity is uniquely defined by the compulsion to self-construct, and this process produces both its creative vitality and its social fragility. Indeed, having many layers of selfness and self-identification has not been a new phenomenon in America. Identifying who we are and defining who we are has been related to the American culture from my observation. Paul Auster’s *New York Trilogy* demonstrates that the layering of personas is specifically a matter in America (or New York). This is a matter of definition of identity. The protagonists in the three novels pursue being the Other, or observing the Other, and then they encounter those whom they are keeping eyes on, who actually contain a trace of themselves. 
+
+In *The City of Glass*, a discussion regarding the controversy of Cervantes's novel *Don Quixote's real author denotes that the making of personalities is contentious. After Daniel Quinn receives a call from someone seeking a detective named Paul Auster, he decides to be a detective personality and traces the trajectory of a man called Peter Stillman. When Mr. Quinn stalked Mr. Stillman and had a talk, they talked about who wrote the real *Don Quixote.*
+
+> “It’s quite simple. Cervantes, if you remember, goes to great lengths to convince the reader that he is not the author. The book, he says, was written in Arabic by Cide Hamete Benengeli. Cervantes describes how he discovered the manuscript by chance one day in the market at Toledo. He hires someone to translate it for him into Spanish, and he claims to be no more than the editor of the translation. In fact, he cannot even vouch for the accuracy of the translation.”
+> “And yet he goes on to say,” Quinn added, “that Cide Hamete’s book is the only true version of Don Quixote’s story. All the other versions are frauds, written by impostors. He makes a great point of insisting that everything in the book really happened in the world.”
+> …
+> “The theory I present in the essay is that he is actually a combination of four different people. Sancho Panza is of course the witness. There’s no other candidate—since he is the only one who accompanies Don Quixote on all his adventures. 
+
+As much as Cervantes tried to juxtapose four different personalities from one, this narrative resonates with the other two stories of Paul Auster. In *Ghosts*, a man named Blue writes reports based on his observation of a man named Black, only to discover that the novel Black is writing is an exact record of Blue’s own surveillance. This reveals that Blue and Black are, in fact, the same person. By projecting the psychological realm onto the physical space of New York. The author layers the multiple personas of a single human being. Similarly, *The Locked Room* tells the story of a narrator who replaces the life of a disappeared man named Fanshawe. Fanshawe refuses to be defined by others and caves in the locked room trying to discard his past. It seems plausible to interpret Fanshawe in the novel as an alter ego of the narrator himself. The sharp disparity between an individual’s existence can naturally multiply into different forms, leading to the emergence of distinct identities that reflect various aspects of their experiences and interactions with others. Put simply, Paul Auster employs the “internal and multiple personalities" to illuminate the inner psyche of the American identity. 
+
+*The Locked Room* further describes how an individual’s life can be split into multiple personas, each so distinct that it becomes difficult to reconcile them as a single, continuous existence in America. Fanshawe found a story of an immigrant who had lived several lives. Each personality of that person was so distinct that the protagonist of the novel was confused to reconcile them as belonging to the same person. The narrator mentions, "each life is irreducible to anything other than itself. Which is as much as to say, lives make no sense.” The person named Lorenzo Da Ponte, born as Emmanuele Congegliano, lived as an ordained priest, a language teacher, a librettist, and a shopkeeper after coming to America and finally became a Columbia University professor. When viewing America as a nation of immigrants, Paul Auster’s work suggests that life prior to arrival and life after are not merely chapters of the same story but fundamentally separate existences. 
+
+For sure, Paul Auster may have intended to describe the particular characteristics of a writer, a person who creates the fictional stories of the others. He writes in *Ghosts* when he talks about Hawthorne as a ghost: 
+
+> Writing is a solitary business. It takes over your life. In some sense, a writer has no life of his own. Even when he’s there, he’s not really there
+> Another ghost
+> Exactly
+
+As much as the writer creates a vessel to accommodate the many lives of people, the writer’s self becomes one of them, ultimately and potentially incorporating his/her life into one of the stories. What Paul Auster attempts to do in his *New York Trilogy* is exactly expose this process, blurring the boundaries between himself as a writer and a person who lives in America, potentially created by the writer. 
+
+What I am trying to do in this essay is to persuade the reader that this specific self-narrative of the writer not only showcases the rupture of the modern world but also the potential existence of manifold identities. The ability to live as multiple personas is similar to creating multiple worldviews, just as the novel as a genre constructs an imaginary world and breathes life into its characters. Dreams, as I mentioned in the early part of this writing, are also creating a fictional world that we reside in and live in. Dreams and novels may both be understood as spaces where, despite being untrue, a facet of one’s authentic self is revealed. We come to understand that the human beings created within these fictional realms cannot be dismissed as mere fabrications; rather, they are spaces in which we accept these figures as parts of ourselves and arrive at a kind of reconciliation. The worldview of Americans is thus one in which the diversity of identity flows even through the unconscious—and it is perhaps this very quality that, even as it sometimes spills over into social controversy, allows American artistic narratives to resonate so deeply with the public. 
+
+The problem arises when we see so many identities of American lives from individuals, and we are just one of the observers disconnected from the others.
