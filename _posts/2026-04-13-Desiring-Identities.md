@@ -23,8 +23,11 @@ American identity is uniquely defined by the compulsion to self-construct, and t
 In *The City of Glass*, a discussion regarding the controversy of Cervantes's novel *Don Quixote's real author denotes that the making of personalities is contentious. After Daniel Quinn receives a call from someone seeking a detective named Paul Auster, he decides to be a detective personality and traces the trajectory of a man called Peter Stillman. When Mr. Quinn stalked Mr. Stillman and had a talk, they talked about who wrote the real *Don Quixote.*
 
 > “It’s quite simple. Cervantes, if you remember, goes to great lengths to convince the reader that he is not the author. The book, he says, was written in Arabic by Cide Hamete Benengeli. Cervantes describes how he discovered the manuscript by chance one day in the market at Toledo. He hires someone to translate it for him into Spanish, and he claims to be no more than the editor of the translation. In fact, he cannot even vouch for the accuracy of the translation.”
+
 > “And yet he goes on to say,” Quinn added, “that Cide Hamete’s book is the only true version of Don Quixote’s story. All the other versions are frauds, written by impostors. He makes a great point of insisting that everything in the book really happened in the world.”
+
 > …
+
 > “The theory I present in the essay is that he is actually a combination of four different people. Sancho Panza is of course the witness. There’s no other candidate—since he is the only one who accompanies Don Quixote on all his adventures. 
 
 As much as Cervantes tried to juxtapose four different personalities from one, this narrative resonates with the other two stories of Paul Auster. In *Ghosts*, a man named Blue writes reports based on his observation of a man named Black, only to discover that the novel Black is writing is an exact record of Blue’s own surveillance. This reveals that Blue and Black are, in fact, the same person. By projecting the psychological realm onto the physical space of New York. The author layers the multiple personas of a single human being. Similarly, *The Locked Room* tells the story of a narrator who replaces the life of a disappeared man named Fanshawe. Fanshawe refuses to be defined by others and caves in the locked room trying to discard his past. It seems plausible to interpret Fanshawe in the novel as an alter ego of the narrator himself. The sharp disparity between an individual’s existence can naturally multiply into different forms, leading to the emergence of distinct identities that reflect various aspects of their experiences and interactions with others. Put simply, Paul Auster employs the “internal and multiple personalities" to illuminate the inner psyche of the American identity. 
@@ -34,7 +37,9 @@ As much as Cervantes tried to juxtapose four different personalities from one, t
 For sure, Paul Auster may have intended to describe the particular characteristics of a writer, a person who creates the fictional stories of the others. He writes in *Ghosts* when he talks about Hawthorne as a ghost: 
 
 > Writing is a solitary business. It takes over your life. In some sense, a writer has no life of his own. Even when he’s there, he’s not really there
+
 > Another ghost
+
 > Exactly
 
 As much as the writer creates a vessel to accommodate the many lives of people, the writer’s self becomes one of them, ultimately and potentially incorporating his/her life into one of the stories. What Paul Auster attempts to do in his *New York Trilogy* is exactly expose this process, blurring the boundaries between himself as a writer and a person who lives in America, potentially created by the writer. 
