@@ -39,6 +39,13 @@ This is the logic Faizullah directly inherits and applies. In *Women Bathing Bef
 
 The same mechanism works across Faizullah’s other paintings. In *The Women of Egypt Cut Their Fingers Peeling Oranges When First Seeing Yusuf’s Beauty*, two winged women at the top of the painting take up the role of performers and appreciators, framing the Quranic narrative of Yusuf unfolding below with a backdrop of an architectural setting. In the LACMA version (<a href="https://upload.wikimedia.org/wikipedia/commons/f/f5/Layla_and_Majnun%2C_and_Khusrau_and_Shirin%2C_Illustrations_of_Themes_from_Persian_Poetry_LACMA_M.83.105.22.jpg" target="_blank" style="color: blue; text-decoration: underline;">fig. 6</a>), the flower garden with an architectural backdrop enacts scenes from Shrin and Farhad, and Layal and Majnun, while a crowd of spectators at the right edge stands as connoisseurs attuned to the literary mood of the entire cityscape. In each case, the architectural setting provides the spatial condition under which literary imagination becomes represented. In the paintings of Faizullah and his descendants, the architectural apparatus functions as a backdrop of storytelling for literature, resonating with a Lucknow viewership capable of decoding these visual-literary intersections. 
 
+<p align="center" style="margin-top: 40px; margin-bottom: 40px;">
+  <img src="/assets/images/payag.jpg" width="80%" alt="Eight Women Bathing, Attributed to Payag">
+  <br>
+  <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
+    (fig. 5) Attributed to Payag, *Eight Women Bathing*, 1650, 23.1 x 16.3 cm, Chester Beatty Library
+  </span>
+</p>
 
 3. Regional Identity, Literary Legacies, and the Architectural Frame Afterwards
 
@@ -52,6 +59,33 @@ The subsequent history of Faizullah’s compositional schema illustrates, by con
 
 The first path is visible in the work of Mihr Chand, who adapted Faizullah’s panoramic compositions for his patron Antoine Polier in the 1780s (<a href="https://www.journal18.org/issue11/verbal-reconstructions-reading-architecture-in-the-urdu-masnavi/" target="_blank" style="color: blue; text-decoration: underline;">fig. 7</a>: please see fig. 10 of the article in the link). Polier, a surveyor and engineer by training, was drawn to Faizullah’s architectural vistas as specimens of built form rather than as vehicles of literary and geographical meaning. The bhava encoded in Faizullah’s *zenana*—the literary resonances of the gopis, the *shahrashob*, the territorial claim to Mughal heritage—was not understandable to a European patron who lacked the poetic and pictorial understanding. Working within this framework, Mihr Chand transformed Faizullah’s compositions into planimetric architectural views that emphasized geometric lines, aerial perspective, and precise elevations. The *zenana* remained as a setting and the expansive landscape as a backdrop, but neither generated narrative; the literary cartography collapsed into architectural documentation. What Faizullah and Awadhi connoisseurs could read as a layered evocation of place, mood, and literary heritage appeared to Polier as an elegant compositional formula, available for extraction and redeployment without its meaning. The patron's lack of cultural literacy and the painter’s use of pictorial tradition resulted in a superficial architectural composition without literary implication. 
 
-The second path is visible in late eighteenth- and early nineteenth-century Jaipur painting. Three paintings in the Chester Beatty Library (figs. 7-9) deploy Faizullah’s elements of bathing women, besieged fortresses, and panoramic gardens. However, Jaipuri painters replaced Awadhi architectural settings with distinctly Jaipuri ones and populated the scenes with European figures. In this case, the process differs from that of Mihr Chand. Jaipuri painters were not unaware of the visual tradition they were drawing on. They recognized in Faizullah’s composition a flexible idiom through which a city could assert its identity. By substituting Jaipur’s architecture for Awadh's, they redirected the social and territorial meaning of the composition. The besieged fortress becomes a spectacle of Jaipur’s military confidence, and the panoramic garden, along with the bathing women, has literary meaning, an assertion of the city’s cosmopolitan splendor. In other words, what Jaipuri painters intended was to utilize Faizullah’s pictorial idiom to add South Asian literary meaning to the European presence, thereby presenting the international urban space of Jaipur. While the compositional grammar was retained, the Jaipuri painters consciously revisited the bhava, replacing its social and regional significance. 
+The second path is visible in late eighteenth- and early nineteenth-century Jaipur painting. Three paintings in the Chester Beatty Library (figs. 8-10) deploy Faizullah’s elements of bathing women, besieged fortresses, and panoramic gardens. However, Jaipuri painters replaced Awadhi architectural settings with distinctly Jaipuri ones and populated the scenes with European figures. In this case, the process differs from that of Mihr Chand. Jaipuri painters were not unaware of the visual tradition they were drawing on. They recognized in Faizullah’s composition a flexible idiom through which a city could assert its identity. By substituting Jaipur’s architecture for Awadh's, they redirected the social and territorial meaning of the composition. The besieged fortress becomes a spectacle of Jaipur’s military confidence, and the panoramic garden, along with the bathing women, has literary meaning, an assertion of the city’s cosmopolitan splendor. In other words, what Jaipuri painters intended was to utilize Faizullah’s pictorial idiom to add South Asian literary meaning to the European presence, thereby presenting the international urban space of Jaipur. While the compositional grammar was retained, the Jaipuri painters consciously revisited the bhava, replacing its social and regional significance. 
+
+<p align="center" style="margin-top: 40px; margin-bottom: 20px;">
+  <img src="/assets/images/jaipur-1.jpg" width="80%" alt="A Besieged City, Jaipur">
+  <br>
+  <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
+    (fig. 7) *A Besieged City*, Jaipur, Late Eighteenth Century, Chester Beatty Library.
+  </span>
+</p>
+
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="/assets/images/jaipur-2.jpg" width="80%" alt="A Boat Rowed in a Tank, Jaipur">
+  <br>
+  <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
+    (fig. 8) *A Boat Rowed in a Tank*, Jaipur, Late Eighteenth Century, Chester Beatty Library.
+  </span>
+</p>
+
+<p align="center" style="margin-top: 20px; margin-bottom: 40px;">
+  <img src="/assets/images/jaipur-3.jpg" width="80%" alt="Lady Bathing in a Tank, Jaipur">
+  <br>
+  <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
+    (fig. 9) *A Lady Bathing in a Tank*, Jaipur, Late Eighteenth Century, Chester Beatty Library.
+  </span>
+</p>
 
 This double trajectory demonstrates that Faizullah’s reinvention lies in the realm of semantics as well as the compositional form. He utilized the architectural frame as an active medium, encoding the complex literary and regional mood, bhava, into the panoramic landscape to construct a distinct regional identity. When later painters adopted this frame, they replaced its semantic layers, whether through a lack of literacy or interest. The meaning of architecture shifts according to the patron’s literary literacy and the specific ways in which different regions reinvent the visual form. Consequently, the architecture ceased to tell tales in Faizullah’s sense. 
+
+*Bibliography available in the original thesis submission.*
+*This essay is a summary of the MA thesis submitted at the Institute of Fine Arts, New York University, April 2025.* 
