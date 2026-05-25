@@ -7,7 +7,7 @@ tags: [Geo-Body, Indian Art, M.F. Husain]
 A prominent Indian modern and contemporary artist, Maqbool Fida Husain (1915-2011), suffered unwilling exile after depicting *Untitled (Bharat Mata)* in 2006 (figure 1). Husain’s painting *Untitled (Bharat Mata)* depicts the Indian subcontinent as a woman folding her body in nudity, and consequently, the Hindu nationalists charged him for violating the sacred image of the goddess (Ramaswami, 2011, 2-4). The painter made the painting as a geo-body illustration, as clear by writing names of the city, such as from north of Srinagar in Kashmir, passing through Gujarat where the massacre happened in 2002, and Bhopal where the worst chemical disaster happened, and south to Cochin and Chennai (Ramaswami, 2011, 86). The wheel used in the national flag is located in the right center, indicating India herself. 
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="/neoconfusion.github.io/assets/img/husain-fig1.png" alt="Figure 1" style="max-width: 80%; height: auto;">
+  <img src="/assets/img/husain-fig1.png" alt="Figure 1" style="max-width: 80%; height: auto;">
   <p style="color: #666; font-size: 0.9em; margin-top: 10px;">
     Figure 1: M. F. Husain, <i>Untitled (Bharat Mata)</i>, Acrylic on Canvas, 41.5 x 33.5 inches, 2005.
   </p>
@@ -24,7 +24,7 @@ In addition, the existing concepts that define space and authority in India are 
 Husain employed the visual languages of the cartography and Bharat Mata in distinct ways. He adopted painting techniques traditionally used for creating enchanting imagery; yet his Bharat Mata is deliberately disenchanting, neither romanticized nor idealized vision. His depiction of Bharat Mata dismantles the authority the nation had accumulated over a century, showcasing tough realities instead. In other words, through the depiction of the geo-body, Husain created an inconsistency between the ideal image of Bharat Mata and the representation of India. Husain explicitly depicted this rupture in his 2005 Bharat Mata, distinguishing it from his earlier paintings. His earlier representations of Bharat Mata (figure 2), depicted wearing clothes, do not expose India’s reality; rather, they continue the early twentieth-century image of depicting the nation’s colonial defiance, such as Gandhi’s procession. In contrast, Husain’s work from 2005 fully deconstructed this narrative, portraying the nation as a place of suffering and pain.
 
 <div style="text-align: center; margin-bottom: 30px;">
-  <img src="/neoconfusion.github.io/assets/img/husain-fig2.png" alt="Figure 2" style="max-width: 80%; height: auto;">
+  <img src="/assets/img/husain-fig2.png" alt="Figure 2" style="max-width: 80%; height: auto;">
   <p style="color: #666; font-size: 0.9em; margin-top: 10px;">
      Figure 2: M. F. Husain, Central Panel of <i>50 Years of Emerging India: A Triptych</i>. Illustration in The Times of India, Special Supplement, Bombay, 15 August 1997. Image scanned from <i>Barefoot across the Nation: Maqbool Fida Husain and the Idea of India</i>, edited by Sumathi Ramaswamy.
   </p>
