@@ -43,7 +43,7 @@ The same mechanism works across Faizullah’s other paintings. In *The Women of 
   <img src="/assets/img/payag.jpg" width="80%" alt="Eight Women Bathing, Attributed to Payag">
   <br>
   <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
-    (fig. 5) Attributed to Payag, *Eight Women Bathing*, 1650, 23.1 x 16.3 cm, Chester Beatty Library
+    (fig. 5) Attributed to Payag, <i>Eight Women Bathing</i>, 1650, 23.1 x 16.3 cm, Chester Beatty Library
   </span>
 </p>
 
@@ -65,7 +65,7 @@ The second path is visible in late eighteenth- and early nineteenth-century Jaip
   <img src="/assets/img/jaipur-1.jpg" width="80%" alt="A Besieged City, Jaipur">
   <br>
   <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
-    (fig. 7) *A Besieged City*, Jaipur, Late Eighteenth Century, Chester Beatty Library.
+    (fig. 7) <i>A Besieged City</i>, Jaipur, Late Eighteenth Century, Chester Beatty Library.
   </span>
 </p>
 
@@ -73,7 +73,7 @@ The second path is visible in late eighteenth- and early nineteenth-century Jaip
   <img src="/assets/img/jaipur-2.jpg" width="80%" alt="A Boat Rowed in a Tank, Jaipur">
   <br>
   <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
-    (fig. 8) *A Boat Rowed in a Tank*, Jaipur, Late Eighteenth Century, Chester Beatty Library.
+    (fig. 8) <i>A Boat Rowed in a Tank</i>, Jaipur, Late Eighteenth Century, Chester Beatty Library.
   </span>
 </p>
 
@@ -81,7 +81,7 @@ The second path is visible in late eighteenth- and early nineteenth-century Jaip
   <img src="/assets/img/jaipur-3.jpg" width="80%" alt="Lady Bathing in a Tank, Jaipur">
   <br>
   <span style="color: gray; font-size: 0.9em; display: inline-block; margin-top: 10px;">
-    (fig. 9) *A Lady Bathing in a Tank*, Jaipur, Late Eighteenth Century, Chester Beatty Library.
+    (fig. 9) <i>A Lady Bathing in a Tank</i>, Jaipur, Late Eighteenth Century, Chester Beatty Library.
   </span>
 </p>
 
