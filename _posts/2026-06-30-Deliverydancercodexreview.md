@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Belated Girl’s Love: Ayoung Kim’s *Delivery Dancer Codex* in MoMA PS1"
+title: "Belated Girl’s Love: Ayoung Kim’s <i>Delivery Dancer Codex</i> in MoMA PS1"
 categories: art
 tags: [Ayoung Kim, Delivery Dancer, Delivery Codex, GL, LOONA]
 ---
