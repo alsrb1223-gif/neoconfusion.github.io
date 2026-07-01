@@ -5,7 +5,8 @@ categories: art
 tags: [Ayoung Kim, Delivery Dancer, Delivery Codex, GL, LOONA]
 ---
 “소녀는 소년의 소녀/소년은 소녀의 소원 (A girl is boy’s girl/a boy is a girl’s wish)” 
-—LOONA Haseul, “소년, 소녀 (Let Me In)”
+—LOONA Haseul, “소년, 소녀 (*Let Me In*)”
+
 Ayoung Kim’s *Delivery Dancer Codex* stages a clear allegory of identity crisis, a psychological struggle happening within a single individual. It is not a story about a delivery driver’s class struggle, nor is it the artist showing off her mastery of the latest AI technology. In the guise of a delivery driver named Ernst Mo, Ayoung Kim guides us to visit a variegated and imagined world, one I read as the artist's “belated” response to a homosexual representation that South Korean pop culture has long kept beneath the surface.
 
 In the exhibition, the installation introduces and completes this narrative before we reach the video rooms. The second floor, where Ayoung Kim’s works begin, opens with *Ghost Dancer A* (2022), a display of two helmets facing each other with video playing inside, alongside *Orbit Dance 10 O’Clock* (2022), a set of gyroscopic devices mounted on the ceiling and the wall. A partial installation of *Delivery Dancer’s Arc: Inverse* (2024) prefigures this imaginative calendar system and horoscope: the system that will constitute time and space is the very ground of Ayoung Kim’s video worldview. In the adjoining room, a horizontal mural, *Evening Peak Time is Back* (2022), renders an obvious GL image (Girl's Love, a genre of romance between women), and in front of that there are two female drivers fighting (or perhaps sexually initiating) on a floor of shattered glass. This is not a mere juxtaposition, but it lays down the keywords the videos will take up: delivery, time and space, and even same-sex desire.
