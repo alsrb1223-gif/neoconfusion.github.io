@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: *Hallan* (2025)"
+title: "Review: <i>Hallan<i/> (2025)"
 date: 2026-07-16
 categories: film
 tags: [Film, Jeju Island, April 3rd, Hallan]
