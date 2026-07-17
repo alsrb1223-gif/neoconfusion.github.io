@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Review: <i>Hallan</i> (2025)"
+title: "Review: <i> Hallan </i> (2025)"
 date: 2026-07-16
 categories: film
 tags: [Film, Jeju Island, April 3rd, Hallan]
 ---
+
 Nothing can be smoother than reconstructing the memory of the Jeju April 3rd Incident. Unlike many other Democratization Movements in Korea, such as the May 18th Democratization Movement in 1980 Gwangju, the Jeju April 3rd Incident has not encountered much allegation of fabricated history from the political power or has not evoked public dispute. I believe there are basically two assumptions behind this appreciation of the Jeju Uprising: first, victims and perpetrators are obvious, and second, this incident is too isolated from the mainland people of South Korea. However, no incident can be categorized as black and white, and if it receives zero contention from South Korean society, I believe the effort to recognize this movement would be nullified since it means no interest in whatever is being said about the Jeju incident. The film director Ha Myung-mi attempts to achieve the double mission of increasing the sense of reality of the Jeju Uprising through the screen with a balanced view of complex historical events.
 
 *Hallan* follows the story of Ajin and her daughter Haeseng on 1948 Jeju Island. The film starts with the scene of Ajin and village people heading to the mountain area. Ajin leaves Haeseng and her mother-in-law, believing that the military squad would not harm the elderly and children. However, it turns out that with an indirect approval from the U.S. officer in charge, the Korean army perpetrates a massacre of innocent civilians. After witnessing the death of her grandmother and neighbors, Haeseng goes up the mountain and suffers from aphasia due to this traumatic experience, while Ajin comes down to find her daughter, worried about her safety. Ajin meets three members of the mountain resistance and finds out that they actually killed Ajin’s husband, worrying that he would expose their presence when he went down to find his family. Ajin fortunately reunites with her daughter, and they escape into the cave. Knowing that the cave is connected to the other side of Jeju Island, they finally reach the seashore, only to be caught by the police and categorized as rioters. 	 
